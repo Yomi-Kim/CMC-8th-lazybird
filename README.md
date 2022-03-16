@@ -1,7 +1,9 @@
 # CMC-8th-lazybird
 
 소개페이지 : http://limit-lazybird.site/
+
 playstore : https://play.google.com/store/apps/details?id=com.limit.lazybird
+
 appstore : https://apps.apple.com/kr/app/%EB%A0%88%EC%9D%B4%EC%A7%80-%EB%B2%84%EB%93%9C/id1590843730
 
 
