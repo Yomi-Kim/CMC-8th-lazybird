@@ -1,6 +1,10 @@
 # CMC-8th-lazybird
 
-바로가기 : http://limit-lazybird.site/
+소개페이지 : http://limit-lazybird.site/
+playstore : https://play.google.com/store/apps/details?id=com.limit.lazybird
+appstore : https://apps.apple.com/kr/app/%EB%A0%88%EC%9D%B4%EC%A7%80-%EB%B2%84%EB%93%9C/id1590843730
+
+
 
 Central Makers Challenge 8기 레이지버드 소개/관리자페이지 소스코드 입니다.
 
