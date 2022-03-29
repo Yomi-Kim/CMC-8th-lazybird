@@ -1,5 +1,7 @@
 # CMC-8th-lazybird
 
+앱 및 서버 소스코드 링크(Organization) : https://github.com/Limit-Lazybird
+
 소개페이지 : http://limit-lazybird.site/
 
 playstore : https://play.google.com/store/apps/details?id=com.limit.lazybird
